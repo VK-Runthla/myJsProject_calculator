@@ -14,6 +14,4 @@ function del() {
 }
 
 
-
-
-console.log("hi my name is vashishth");
+console.log("hi my name is Sharma ji");
