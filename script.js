@@ -12,3 +12,8 @@ function scr() {
 function del() {
   result.value = result.value.slice(0, -1);
 }
+
+
+
+
+console.log("hi my name is vashishth");
